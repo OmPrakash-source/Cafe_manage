@@ -1,0 +1,9 @@
+tacos 11.5 15
+sushi 20 100
+burgers 14 25
+salad 8.5 15
+pasta 12 20
+sandwiches 10 30
+french 16 30
+pizza 16 30
+mint 17.4 40
